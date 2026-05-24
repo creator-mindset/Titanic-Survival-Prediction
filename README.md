@@ -1,5 +1,5 @@
 # Titanic Survival Prediction 🚢
-
+![Titanic Survival Prediction](https://github.com/creator-mindset/Titanic-Survival-Prediction/blob/main/Titanic%20Survival%20Prediction%20Image.png?raw=true)
 A Machine Learning web application built using Logistic Regression and Streamlit that predicts whether you  would survive the Titanic disaster as a passenger based on passenger details such as class, gender, age, fare, and family members aboard.
 
 ---
@@ -69,7 +69,10 @@ Source:
 https://www.kaggle.com/c/titanic/data
 
 # 📸 Screenshots
-
+# User Interface (Before Prediction)
+![Screenshot Before](https://github.com/creator-mindset/Titanic-Survival-Prediction/blob/main/Screenshot(Before).png?raw=true)
+# User Interface (After Prediction)
+![Screenshot After](https://github.com/creator-mindset/Titanic-Survival-Prediction/blob/main/Screenshot(After).png?raw=true)
 # 📚 Learning Outcomes
 
 Through this project, I learned:
